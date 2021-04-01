@@ -1,0 +1,11 @@
+The entire duration for each activity over the monitoring period: 
+Leaving: 27h 44min 44sec
+Sleeping: 131h 3min 31sec
+Breakfast: 2h 58min 8sec
+Lunch: 5h 13min 31sec
+Dinner: 0h 0min 0sec
+Grooming: 2h 40min 42sec
+Spare_Time/TV: 142h 28min 55sec
+Toileting: 2h 20min 34sec
+Showering: 1h 34min 9sec
+Snack: 0h 6min 1sec

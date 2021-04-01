@@ -1,0 +1,18 @@
+CREATE DATABASE IF NOT EXISTS WAREHOUSE;
+USE WAREHOUSE;
+
+CREATE TABLE IF NOT EXISTS produs
+(id int primary key auto_increment, nume char(20), cantitate int, pret float);
+
+CREATE TABLE IF NOT EXISTS client
+(id int primary key auto_increment, nume char(30), adresa char(20));
+
+CREATE TABLE IF NOT EXISTS comanda
+(id int primary key auto_increment, nume char(30), produs char(20), cantitate int, id_client int, id_produs int);
+Alter table comanda add FOREIGN KEY (id_client) REFERENCES client(id);
+Alter table comanda add FOREIGN KEY (id_produs) REFERENCES produs(id);
+
+CREATE TABLE IF NOT EXISTS factura
+(id int primary key auto_increment, nume char(30), produs char(20), cantitate int, pret float, id_client int, id_produs int);
+Alter table factura add FOREIGN KEY (id_client) REFERENCES client(id);
+Alter table factura add FOREIGN KEY (id_produs) REFERENCES produs(id);

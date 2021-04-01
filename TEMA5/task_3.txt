@@ -1,0 +1,12 @@
+How manu times each activity appeared over the entire monitoring period: 
+Leaving 14
+Toileting 44
+Showering 14
+Sleeping 14
+Breakfast 14
+Lunch 9
+Dinner 0
+Snack 11
+Spare_Time/Tv 77
+Grooming 51
+

@@ -1,0 +1,310 @@
+TIME 0: Server-ul 0 este inchis
+TIME 0: Server-ul 2 este inchis
+TIME 0: Server-ul 4 este inchis
+TIME 0: Server-ul 1 este inchis
+TIME 0: Server-ul 3 este inchis
+TIME 1: Server-ul 0 este inchis
+TIME 1: Server-ul 3 este inchis
+TIME 1: Server-ul 1 este inchis
+TIME 1: Server-ul 2 este inchis
+TIME 1: Server-ul 4 este inchis
+TIME 2: Server-ul 1 este inchis
+TIME 2: Server-ul 0 este inchis
+TIME 2: Server-ul 3 este inchis
+TIME 2: Server-ul 4 este inchis
+TIME 2: Server-ul 2 este inchis
+TIME 2: Server-ul 2: (9, 2, 4)
+TIME 2: Server-ul 0: (1, 2, 1)
+TIME 3: Server-ul 4 este inchis
+TIME 3: Server-ul 0 este inchis
+TIME 3: Server-ul 2: (9, 2, 3)
+TIME 3: Server-ul 1: (3, 2, 6)
+TIME 3: Server-ul 3: (11, 2, 1)
+TIME 3: Server-ul 0: (48, 3, 3)
+TIME 4: Server-ul 4 este inchis
+TIME 4: Server-ul 4: (30, 4, 6)
+TIME 4: Server-ul 2: (9, 2, 2)
+TIME 4: Server-ul 1: (3, 2, 5)
+TIME 4: Server-ul 3: (21, 3, 3)
+TIME 4: Server-ul 0: (48, 3, 2)
+TIME 5: Server-ul 2: (9, 2, 1)
+TIME 5: Server-ul 4: (30, 4, 5)
+TIME 5: Server-ul 1: (3, 2, 4)
+TIME 5: Server-ul 3: (21, 3, 2)
+TIME 5: Server-ul 0: (48, 3, 1)
+TIME 6: Server-ul 2: (32, 4, 6)
+TIME 6: Server-ul 1: (3, 2, 3)
+TIME 6: Server-ul 4: (30, 4, 4)
+TIME 6: Server-ul 0: (13, 5, 6)
+TIME 6: Server-ul 3: (21, 3, 1)
+TIME 7: Server-ul 1: (3, 2, 2)
+TIME 7: Server-ul 4: (30, 4, 3)
+TIME 7: Server-ul 2: (32, 4, 5)
+TIME 7: Server-ul 0: (13, 5, 5)
+TIME 7: Server-ul 3: (49, 6, 6)
+TIME 8: Server-ul 2: (32, 4, 4)
+TIME 8: Server-ul 4: (30, 4, 2)
+TIME 8: Server-ul 1: (3, 2, 1)
+TIME 8: Server-ul 3: (49, 6, 5)
+TIME 8: Server-ul 0: (13, 5, 4)
+TIME 9: Server-ul 2: (32, 4, 3)
+TIME 9: Server-ul 1: (28, 7, 2)
+TIME 9: Server-ul 4: (30, 4, 1)
+TIME 9: Server-ul 0: (13, 5, 3)
+TIME 9: Server-ul 3: (49, 6, 4)
+TIME 10: Server-ul 2: (32, 4, 2)
+TIME 10: Server-ul 1: (28, 7, 1)
+TIME 10: Server-ul 4: (37, 9, 6)
+TIME 10: Server-ul 3: (49, 6, 3)
+TIME 10: Server-ul 0: (13, 5, 2)
+TIME 11: Server-ul 1: (34, 7, 4)
+TIME 11: Server-ul 4: (37, 9, 5)
+TIME 11: Server-ul 2: (32, 4, 1)
+TIME 11: Server-ul 0: (13, 5, 1)
+TIME 11: Server-ul 3: (49, 6, 2)
+TIME 12: Server-ul 4: (37, 9, 4)
+TIME 12: Server-ul 2: (38, 11, 5)
+TIME 12: Server-ul 1: (34, 7, 3)
+TIME 12: Server-ul 3: (49, 6, 1)
+TIME 12: Server-ul 0: (29, 10, 6)
+TIME 13: Server-ul 1: (34, 7, 2)
+TIME 13: Server-ul 2: (38, 11, 4)
+TIME 13: Server-ul 4: (37, 9, 3)
+TIME 13: Server-ul 0: (29, 10, 5)
+TIME 13: Server-ul 3: (15, 12, 6)
+TIME 14: Server-ul 4: (37, 9, 2)
+TIME 14: Server-ul 2: (38, 11, 3)
+TIME 14: Server-ul 1: (34, 7, 1)
+TIME 14: Server-ul 3: (15, 12, 5)
+TIME 14: Server-ul 0: (29, 10, 4)
+TIME 15: Server-ul 2: (38, 11, 2)
+TIME 15: Server-ul 1: (40, 12, 1)
+TIME 15: Server-ul 4: (37, 9, 1)
+TIME 15: Server-ul 3: (15, 12, 4)
+TIME 15: Server-ul 0: (29, 10, 3)
+TIME 16: Server-ul 2: (38, 11, 1)
+TIME 16: Server-ul 4: (18, 14, 4)
+TIME 16: Server-ul 1: (44, 13, 4)
+TIME 16: Server-ul 0: (29, 10, 2)
+TIME 16: Server-ul 3: (15, 12, 3)
+TIME 17: Server-ul 4: (18, 14, 3)
+TIME 17: Server-ul 1: (44, 13, 3)
+TIME 17: Server-ul 2: (16, 16, 3)
+TIME 17: Server-ul 0: (29, 10, 1)
+TIME 17: Server-ul 3: (15, 12, 2)
+TIME 18: Server-ul 1: (44, 13, 2)
+TIME 18: Server-ul 2: (16, 16, 2)
+TIME 18: Server-ul 4: (18, 14, 2)
+TIME 18: Server-ul 0: (33, 16, 2)
+TIME 18: Server-ul 3: (15, 12, 1)
+TIME 19: Server-ul 1: (44, 13, 1)
+TIME 19: Server-ul 2: (16, 16, 1)
+TIME 19: Server-ul 4: (18, 14, 1)
+TIME 19: Server-ul 0: (33, 16, 1)
+TIME 19: Server-ul 3: (24, 17, 6)
+TIME 20: Server-ul 1: (39, 16, 5)
+TIME 20: Server-ul 4: (7, 18, 6)
+TIME 20: Server-ul 2: (26, 17, 4)
+TIME 20: Server-ul 0: (10, 19, 6)
+TIME 20: Server-ul 3: (24, 17, 5)
+TIME 21: Server-ul 4: (7, 18, 5)
+TIME 21: Server-ul 2: (26, 17, 3)
+TIME 21: Server-ul 1: (39, 16, 4)
+TIME 21: Server-ul 0: (10, 19, 5)
+TIME 21: Server-ul 3: (24, 17, 4)
+TIME 22: Server-ul 1: (39, 16, 3)
+TIME 22: Server-ul 2: (26, 17, 2)
+TIME 22: Server-ul 4: (7, 18, 4)
+TIME 22: Server-ul 0: (10, 19, 4)
+TIME 22: Server-ul 3: (24, 17, 3)
+TIME 23: Server-ul 1: (39, 16, 2)
+TIME 23: Server-ul 2: (26, 17, 1)
+TIME 23: Server-ul 4: (7, 18, 3)
+TIME 23: Server-ul 0: (10, 19, 3)
+TIME 23: Server-ul 3: (24, 17, 2)
+TIME 24: Server-ul 2: (23, 20, 3)
+TIME 24: Server-ul 4: (7, 18, 2)
+TIME 24: Server-ul 1: (39, 16, 1)
+TIME 24: Server-ul 3: (24, 17, 1)
+TIME 24: Server-ul 0: (10, 19, 2)
+TIME 25: Server-ul 4: (7, 18, 1)
+TIME 25: Server-ul 2: (23, 20, 2)
+TIME 25: Server-ul 1: (17, 20, 6)
+TIME 25: Server-ul 0: (10, 19, 1)
+TIME 25: Server-ul 3: (4, 22, 6)
+TIME 26: Server-ul 2: (23, 20, 1)
+TIME 26: Server-ul 1: (17, 20, 5)
+TIME 26: Server-ul 4: (0, 23, 5)
+TIME 26: Server-ul 3: (4, 22, 5)
+TIME 26: Server-ul 0: (22, 24, 5)
+TIME 27: Server-ul 1: (17, 20, 4)
+TIME 27: Server-ul 4: (0, 23, 4)
+TIME 27: Server-ul 2: (47, 24, 3)
+TIME 27: Server-ul 0: (22, 24, 4)
+TIME 27: Server-ul 3: (4, 22, 4)
+TIME 28: Server-ul 1: (17, 20, 3)
+TIME 28: Server-ul 2: (47, 24, 2)
+TIME 28: Server-ul 4: (0, 23, 3)
+TIME 28: Server-ul 0: (22, 24, 3)
+TIME 28: Server-ul 3: (4, 22, 3)
+TIME 29: Server-ul 2: (47, 24, 1)
+TIME 29: Server-ul 1: (17, 20, 2)
+TIME 29: Server-ul 4: (0, 23, 2)
+TIME 29: Server-ul 3: (4, 22, 2)
+TIME 29: Server-ul 0: (22, 24, 2)
+TIME 30: Server-ul 4: (0, 23, 1)
+TIME 30: Server-ul 2: (6, 27, 4)
+TIME 30: Server-ul 1: (17, 20, 1)
+TIME 30: Server-ul 0: (22, 24, 1)
+TIME 30: Server-ul 3: (4, 22, 1)
+TIME 31: Server-ul 4: (5, 30, 4)
+TIME 31: Server-ul 1: (46, 25, 3)
+TIME 31: Server-ul 2: (6, 27, 3)
+TIME 31: Server-ul 3: (27, 27, 4)
+TIME 31: Server-ul 0: (12, 30, 3)
+TIME 32: Server-ul 4: (5, 30, 3)
+TIME 32: Server-ul 2: (6, 27, 2)
+TIME 32: Server-ul 1: (46, 25, 2)
+TIME 32: Server-ul 3: (27, 27, 3)
+TIME 32: Server-ul 0: (12, 30, 2)
+TIME 33: Server-ul 4: (5, 30, 2)
+TIME 33: Server-ul 1: (46, 25, 1)
+TIME 33: Server-ul 2: (6, 27, 1)
+TIME 33: Server-ul 0: (12, 30, 1)
+TIME 33: Server-ul 3: (27, 27, 2)
+TIME 34: Server-ul 4: (5, 30, 1)
+TIME 34: Server-ul 1: (45, 30, 2)
+TIME 34: Server-ul 2: (41, 31, 2)
+TIME 34: Server-ul 3: (27, 27, 1)
+TIME 34: Server-ul 0: (42, 32, 6)
+TIME 35: Server-ul 4: (36, 33, 1)
+TIME 35: Server-ul 1: (45, 30, 1)
+TIME 35: Server-ul 2: (41, 31, 1)
+TIME 35: Server-ul 3: (20, 33, 3)
+TIME 35: Server-ul 0: (42, 32, 5)
+TIME 36: Server-ul 4: (14, 35, 1)
+TIME 36: Server-ul 2: (8, 35, 6)
+TIME 36: Server-ul 1: (19, 33, 5)
+TIME 36: Server-ul 3: (20, 33, 2)
+TIME 36: Server-ul 0: (42, 32, 4)
+TIME 37: Server-ul 1: (19, 33, 4)
+TIME 37: Server-ul 4: (43, 35, 6)
+TIME 37: Server-ul 2: (8, 35, 5)
+TIME 37: Server-ul 3: (20, 33, 1)
+TIME 37: Server-ul 0: (42, 32, 3)
+TIME 38: Server-ul 4: (43, 35, 5)
+TIME 38: Server-ul 1: (19, 33, 3)
+TIME 38: Server-ul 2: (8, 35, 4)
+TIME 38: Server-ul 3: (2, 36, 3)
+TIME 38: Server-ul 0: (42, 32, 2)
+TIME 39: Server-ul 4: (43, 35, 4)
+TIME 39: Server-ul 2: (8, 35, 3)
+TIME 39: Server-ul 1: (19, 33, 2)
+TIME 39: Server-ul 3: (2, 36, 2)
+TIME 39: Server-ul 0: (42, 32, 1)
+TIME 40: Server-ul 4: (43, 35, 3)
+TIME 40: Server-ul 1: (19, 33, 1)
+TIME 40: Server-ul 2: (8, 35, 2)
+TIME 40: Server-ul 0: (25, 37, 6)
+TIME 40: Server-ul 3: (2, 36, 1)
+TIME 41: Server-ul 1: (35, 36, 4)
+TIME 41: Server-ul 2: (8, 35, 1)
+TIME 41: Server-ul 4: (43, 35, 2)
+TIME 41: Server-ul 0: (25, 37, 5)
+TIME 41: Server-ul 3: (31, 38, 3)
+TIME 42: Server-ul 2 este inchis
+TIME 42: Server-ul 4: (43, 35, 1)
+TIME 42: Server-ul 1: (35, 36, 3)
+TIME 42: Server-ul 3: (31, 38, 2)
+TIME 42: Server-ul 0: (25, 37, 4)
+TIME 43: Server-ul 4 este inchis
+TIME 43: Server-ul 1: (35, 36, 2)
+TIME 43: Server-ul 2 este inchis
+TIME 43: Server-ul 3: (31, 38, 1)
+TIME 43: Server-ul 0: (25, 37, 3)
+TIME 44: Server-ul 4 este inchis
+TIME 44: Server-ul 1: (35, 36, 1)
+TIME 44: Server-ul 2 este inchis
+TIME 44: Server-ul 3 este inchis
+TIME 44: Server-ul 0: (25, 37, 2)
+TIME 45: Server-ul 1 este inchis
+TIME 45: Server-ul 2 este inchis
+TIME 45: Server-ul 4 este inchis
+TIME 45: Server-ul 3 este inchis
+TIME 45: Server-ul 0: (25, 37, 1)
+TIME 46: Server-ul 1 este inchis
+TIME 46: Server-ul 2 este inchis
+TIME 46: Server-ul 4 este inchis
+TIME 46: Server-ul 0 este inchis
+TIME 46: Server-ul 3 este inchis
+TIME 47: Server-ul 2 este inchis
+TIME 47: Server-ul 4 este inchis
+TIME 47: Server-ul 1 este inchis
+TIME 47: Server-ul 0 este inchis
+TIME 47: Server-ul 3 este inchis
+TIME 48: Server-ul 2 este inchis
+TIME 48: Server-ul 1 este inchis
+TIME 48: Server-ul 4 este inchis
+TIME 48: Server-ul 0 este inchis
+TIME 48: Server-ul 3 este inchis
+TIME 49: Server-ul 2 este inchis
+TIME 49: Server-ul 1 este inchis
+TIME 49: Server-ul 4 este inchis
+TIME 49: Server-ul 0 este inchis
+TIME 49: Server-ul 3 este inchis
+TIME 50: Server-ul 1 este inchis
+TIME 50: Server-ul 2 este inchis
+TIME 50: Server-ul 4 este inchis
+TIME 50: Server-ul 3 este inchis
+TIME 50: Server-ul 0 este inchis
+TIME 51: Server-ul 2 este inchis
+TIME 51: Server-ul 1 este inchis
+TIME 51: Server-ul 4 este inchis
+TIME 51: Server-ul 0 este inchis
+TIME 51: Server-ul 3 este inchis
+TIME 52: Server-ul 2 este inchis
+TIME 52: Server-ul 4 este inchis
+TIME 52: Server-ul 1 este inchis
+TIME 52: Server-ul 0 este inchis
+TIME 52: Server-ul 3 este inchis
+TIME 53: Server-ul 4 este inchis
+TIME 53: Server-ul 1 este inchis
+TIME 53: Server-ul 2 este inchis
+TIME 53: Server-ul 0 este inchis
+TIME 53: Server-ul 3 este inchis
+TIME 54: Server-ul 1 este inchis
+TIME 54: Server-ul 2 este inchis
+TIME 54: Server-ul 4 este inchis
+TIME 54: Server-ul 0 este inchis
+TIME 54: Server-ul 3 este inchis
+TIME 55: Server-ul 2 este inchis
+TIME 55: Server-ul 4 este inchis
+TIME 55: Server-ul 1 este inchis
+TIME 55: Server-ul 3 este inchis
+TIME 55: Server-ul 0 este inchis
+TIME 56: Server-ul 4 este inchis
+TIME 56: Server-ul 2 este inchis
+TIME 56: Server-ul 1 este inchis
+TIME 56: Server-ul 0 este inchis
+TIME 56: Server-ul 3 este inchis
+TIME 57: Server-ul 2 este inchis
+TIME 57: Server-ul 1 este inchis
+TIME 57: Server-ul 4 este inchis
+TIME 57: Server-ul 3 este inchis
+TIME 57: Server-ul 0 este inchis
+TIME 58: Server-ul 2 este inchis
+TIME 58: Server-ul 4 este inchis
+TIME 58: Server-ul 1 este inchis
+TIME 58: Server-ul 0 este inchis
+TIME 58: Server-ul 3 este inchis
+TIME 59: Server-ul 4 este inchis
+TIME 59: Server-ul 2 este inchis
+TIME 59: Server-ul 1 este inchis
+TIME 59: Server-ul 0 este inchis
+TIME 59: Server-ul 3 este inchis
+TIME 60: Server-ul 2 este inchis
+TIME 60: Server-ul 4 este inchis
+TIME 60: Server-ul 1 este inchis
+TIME 60: Server-ul 3 este inchis
+TIME 60: Server-ul 0 este inchis
+In this case the average waiting time is: 6.2

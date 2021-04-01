@@ -1,0 +1,125 @@
+TIME 0: Server-ul 0 este inchis
+TIME 0: Server-ul 1 este inchis
+TIME 1: Server-ul 0 este inchis
+TIME 1: Server-ul 1 este inchis
+TIME 2: Server-ul 1 este inchis
+TIME 2: Server-ul 0 este inchis
+TIME 3: Server-ul 1 este inchis
+TIME 3: Server-ul 0 este inchis
+TIME 3: Server-ul 0: (0, 3, 3)
+TIME 4: Server-ul 1 este inchis
+TIME 4: Server-ul 0: (0, 3, 2)
+TIME 5: Server-ul 1 este inchis
+TIME 5: Server-ul 0: (0, 3, 1)
+TIME 5: Server-ul 1: (2, 5, 3)
+TIME 6: Server-ul 1: (2, 5, 2)
+TIME 6: Server-ul 0 este inchis
+TIME 7: Server-ul 0 este inchis
+TIME 7: Server-ul 1: (2, 5, 1)
+TIME 8: Server-ul 0 este inchis
+TIME 8: Server-ul 1 este inchis
+TIME 9: Server-ul 0 este inchis
+TIME 9: Server-ul 1 este inchis
+TIME 10: Server-ul 1 este inchis
+TIME 10: Server-ul 0 este inchis
+TIME 11: Server-ul 0 este inchis
+TIME 11: Server-ul 1 este inchis
+TIME 12: Server-ul 1 este inchis
+TIME 12: Server-ul 0: (1, 12, 2)
+TIME 13: Server-ul 0: (1, 12, 1)
+TIME 13: Server-ul 1: (3, 13, 3)
+TIME 14: Server-ul 0 este inchis
+TIME 14: Server-ul 1: (3, 13, 2)
+TIME 15: Server-ul 0 este inchis
+TIME 15: Server-ul 1: (3, 13, 1)
+TIME 16: Server-ul 1 este inchis
+TIME 16: Server-ul 0 este inchis
+TIME 17: Server-ul 1 este inchis
+TIME 17: Server-ul 0 este inchis
+TIME 18: Server-ul 1 este inchis
+TIME 18: Server-ul 0 este inchis
+TIME 19: Server-ul 1 este inchis
+TIME 19: Server-ul 0 este inchis
+TIME 20: Server-ul 1 este inchis
+TIME 20: Server-ul 0 este inchis
+TIME 21: Server-ul 1 este inchis
+TIME 21: Server-ul 0 este inchis
+TIME 22: Server-ul 0 este inchis
+TIME 22: Server-ul 1 este inchis
+TIME 23: Server-ul 0 este inchis
+TIME 23: Server-ul 1 este inchis
+TIME 24: Server-ul 1 este inchis
+TIME 24: Server-ul 0 este inchis
+TIME 25: Server-ul 1 este inchis
+TIME 25: Server-ul 0 este inchis
+TIME 26: Server-ul 0 este inchis
+TIME 26: Server-ul 1 este inchis
+TIME 27: Server-ul 0 este inchis
+TIME 27: Server-ul 1 este inchis
+TIME 28: Server-ul 1 este inchis
+TIME 28: Server-ul 0 este inchis
+TIME 29: Server-ul 0 este inchis
+TIME 29: Server-ul 1 este inchis
+TIME 30: Server-ul 0 este inchis
+TIME 30: Server-ul 1 este inchis
+TIME 31: Server-ul 0 este inchis
+TIME 31: Server-ul 1 este inchis
+TIME 32: Server-ul 0 este inchis
+TIME 32: Server-ul 1 este inchis
+TIME 33: Server-ul 1 este inchis
+TIME 33: Server-ul 0 este inchis
+TIME 34: Server-ul 1 este inchis
+TIME 34: Server-ul 0 este inchis
+TIME 35: Server-ul 1 este inchis
+TIME 35: Server-ul 0 este inchis
+TIME 36: Server-ul 1 este inchis
+TIME 36: Server-ul 0 este inchis
+TIME 37: Server-ul 0 este inchis
+TIME 37: Server-ul 1 este inchis
+TIME 38: Server-ul 1 este inchis
+TIME 38: Server-ul 0 este inchis
+TIME 39: Server-ul 1 este inchis
+TIME 39: Server-ul 0 este inchis
+TIME 40: Server-ul 1 este inchis
+TIME 40: Server-ul 0 este inchis
+TIME 41: Server-ul 1 este inchis
+TIME 41: Server-ul 0 este inchis
+TIME 42: Server-ul 1 este inchis
+TIME 42: Server-ul 0 este inchis
+TIME 43: Server-ul 0 este inchis
+TIME 43: Server-ul 1 este inchis
+TIME 44: Server-ul 0 este inchis
+TIME 44: Server-ul 1 este inchis
+TIME 45: Server-ul 1 este inchis
+TIME 45: Server-ul 0 este inchis
+TIME 46: Server-ul 1 este inchis
+TIME 46: Server-ul 0 este inchis
+TIME 47: Server-ul 1 este inchis
+TIME 47: Server-ul 0 este inchis
+TIME 48: Server-ul 1 este inchis
+TIME 48: Server-ul 0 este inchis
+TIME 49: Server-ul 1 este inchis
+TIME 49: Server-ul 0 este inchis
+TIME 50: Server-ul 1 este inchis
+TIME 50: Server-ul 0 este inchis
+TIME 51: Server-ul 0 este inchis
+TIME 51: Server-ul 1 este inchis
+TIME 52: Server-ul 1 este inchis
+TIME 52: Server-ul 0 este inchis
+TIME 53: Server-ul 1 este inchis
+TIME 53: Server-ul 0 este inchis
+TIME 54: Server-ul 0 este inchis
+TIME 54: Server-ul 1 este inchis
+TIME 55: Server-ul 1 este inchis
+TIME 55: Server-ul 0 este inchis
+TIME 56: Server-ul 1 este inchis
+TIME 56: Server-ul 0 este inchis
+TIME 57: Server-ul 1 este inchis
+TIME 57: Server-ul 0 este inchis
+TIME 58: Server-ul 1 este inchis
+TIME 58: Server-ul 0 este inchis
+TIME 59: Server-ul 0 este inchis
+TIME 59: Server-ul 1 este inchis
+TIME 60: Server-ul 0 este inchis
+TIME 60: Server-ul 1 este inchis
+In this case the average waiting time is: 2.75

@@ -1,0 +1,3 @@
+The distinct days that appear in the monitoring data: 
+Distinct days: 14
+

@@ -1,0 +1,9 @@
+Date: 2020/05/05
+OrderID: 1
+TableNo: 9
+
+Products:
+cartofi gratinati:= 20.0
+limonada:= 20.0
+
+TOTAL: 40.0
